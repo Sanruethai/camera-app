@@ -18,11 +18,10 @@
 ## 
 
 ### หน้า Camera
-![หน้าจอหลัก](assets/camera.png)
 <img src="assets/camera.png" alt="หน้าจอหลัก" width="200"/>
 
 ### หลังจากถ่ายรูป
-![ถ่ายภาพ](assets/record_images.png)
+
 <img src="assets/record_images.png" alt="ถ่ายภาพ" width="200"/>
 
 ---
