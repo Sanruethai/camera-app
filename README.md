@@ -33,10 +33,8 @@
 git clone https://github.com/Sanruethai/camera-app.git
 cd camera-app
 
-npm start
+
 โครงสร้างโฟลเดอร์
-bash
-คัดลอกโค้ด
 camera-app/
 │
 ├── assets/            # รูปภาพและสื่อประกอบ
