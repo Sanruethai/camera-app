@@ -21,7 +21,7 @@
 ![หน้าจอหลัก](![Camera](assets/camera.png))
 
 ### หลังจากถ่ายรูป
-![ถ่ายภาพ](assets/record images.png)
+![ถ่ายภาพ](assets/record_images.png)
 
 ---
 
