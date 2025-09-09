@@ -25,7 +25,7 @@
 
 <img src=assets/perview_mode.png alt="Preview Mode" width="200"/>
 
-อัลบั้ม
+### อัลบั้ม
 <img src=assets/Gallery_mode.png alt="PGellery Mode" width="200"/>
 
 ---
