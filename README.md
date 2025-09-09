@@ -18,10 +18,10 @@
 ## 
 
 ### หน้า Camera
-![หน้าจอหลัก](C:\camera-app\assets\camera.png)
+![หน้าจอหลัก](![Camera](assets/camera.png))
 
 ### หลังจากถ่ายรูป
-![ถ่ายภาพ](C:\camera-app\assets\record images.png)
+![ถ่ายภาพ](assets/record images.png)
 
 ---
 
