@@ -21,7 +21,7 @@
 ![หน้าจอหลัก](![Camera](assets/camera.png))
 
 ### หลังจากถ่ายรูป
-![ถ่ายภาพ](assets/record_images.png)
+![ถ่ายภาพ](C:\camera-app\assets\record_images.png)
 
 ---
 
