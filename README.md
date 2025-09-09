@@ -18,11 +18,15 @@
 ## 
 
 ### หน้า Camera
-<img src="assets/camera.png" alt="หน้าจอหลัก" width="200"/>
+<img src="assets/camera.png" alt="Camera Mode" width="200"/>
+<img src="assets/camera.png" alt="Camera Mode" width="200"/>
 
 ### หลังจากถ่ายรูป
 
-<img src="assets/record_images.png" alt="ถ่ายภาพ" width="200"/>
+<img src="assets/record_images.png" alt="Preview Mode" width="200"/>
+
+อัลบั้ม
+<img src="assets/record_images.png" alt="PGellery Mode" width="200"/>
 
 ---
 
